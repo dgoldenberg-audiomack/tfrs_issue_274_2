@@ -1,0 +1,12 @@
+.DS_Store
+target
+venv
+.idea
+*.pyc
+.minio.sys
+.cache/
+.ipynb_checkpoints/
+**/__pycache__
+.coverage
+.vscode
+tmp
